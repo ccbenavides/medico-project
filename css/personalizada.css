@@ -1,0 +1,64 @@
+.actividad_seleccionada{
+
+	/*border-style:solid;
+	border-color:#158cba #158cba;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;*/
+
+	border-color: #8F2D57;
+	border-style: solid;
+	border-radius: 20px;
+}
+
+.clasecama {
+  
+
+/*	
+	border-style: solid;
+	border-color: #000;
+	border-radius: 1px;
+	border: medium dotted  red;
+	border-collapse: collapse;
+	padding: 0.3em;*/
+	border: black 1px solid;
+}
+
+
+.camaseleccionada{
+
+	/*border-style:solid;
+	border-color:#158cba #158cba;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;*/
+
+	border:  #2000F9 4px solid;
+
+/*	border-color: #2000F9;
+	border-style: solid;
+	border-radius: 20px;
+	border-left-color: #2000F9;*/
+	
+}
+
+
+  .btn-disable{
+        cursor: default;
+        pointer-events: none;
+
+        /*Button disabled - CSS color class*/
+        color: #c0c0c0 !important;
+        background-color: #ffffff !important;
+
+}
+
+  .btn-enable{
+        cursor: pointer;
+        pointer-events: initial;
+
+        /*Button disabled - CSS color class*/
+        color: #fff !important;
+        background-color: #2f96b4 !important;
+
+}
